@@ -156,19 +156,8 @@ const imageLightOptions: DropdownOption[] = [
 
 const imageDarkOptions: DropdownOption[] = [
   {
-    text: 'ZEIT',
-    value:
-      'https://assets.zeit.co/image/upload/front/assets/design/zeit-white-triangle.svg',
-  },
-  {
-    text: 'Next.js',
-    value:
-      'https://assets.zeit.co/image/upload/front/assets/design/nextjs-white-logo.svg',
-  },
-  {
-    text: 'Hyper',
-    value:
-      'https://assets.zeit.co/image/upload/front/assets/design/hyper-bw-logo.svg',
+    text: 'givebat',
+    value: 'https://givebat.com/android-chrome-512x512.png',
   },
 ];
 
