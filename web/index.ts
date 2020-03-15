@@ -152,11 +152,19 @@ const imageLightOptions: DropdownOption[] = [
     text: 'givebat',
     value: 'https://givebat.com/android-chrome-512x512.png',
   },
+  {
+    text: 'givebat2',
+    value: 'https://givebat.com/android-chrome-512x512.png',
+  },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
   {
     text: 'givebat',
+    value: 'https://givebat.com/android-chrome-512x512.png',
+  },
+  {
+    text: 'givebat2',
     value: 'https://givebat.com/android-chrome-512x512.png',
   },
 ];

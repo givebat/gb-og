@@ -51,9 +51,7 @@ function getDefaultImages(images: string[], theme: Theme): string[] {
   if (
     images.length > 0 &&
     images[0] &&
-    images[0].startsWith(
-      'https://assets.zeit.co/image/upload/front/assets/design/'
-    )
+    images[0].startsWith('https://givebat.com')
   ) {
     return images;
   }
