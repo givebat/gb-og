@@ -58,10 +58,6 @@ function getDefaultImages(images: string[], theme: Theme): string[] {
     return images;
   }
   return theme === 'light'
-    ? [
-        'https://assets.zeit.co/image/upload/front/assets/design/zeit-black-triangle.svg',
-      ]
-    : [
-        'https://assets.zeit.co/image/upload/front/assets/design/zeit-white-triangle.svg',
-      ];
+    ? ['https://givebat.com/android-chrome-512x512.png']
+    : ['https://givebat.com/android-chrome-512x512.png'];
 }
